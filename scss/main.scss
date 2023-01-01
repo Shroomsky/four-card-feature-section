@@ -175,11 +175,11 @@ header {
 //=====================Footer================//
 
 //=====================Media================//
-@media (min-width: 1440px) {
+@media (min-width: 1200px) {
 	.wrapper {
 		min-width: 90%;
 	}
-	hgroup {
+	header {
 		width: 32rem;
 		font-size: 2rem;
 		text-align: center;
